@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println("project C")
+	fmt.Println("project C : major version")
 	_ = models.Beez{}
 }
